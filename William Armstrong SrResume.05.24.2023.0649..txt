@@ -1,0 +1,49 @@
+William Armstrong Sr.
+Software Engineer
+
+(945)227-7634 |  will.ea.armstronng@gmail.com  |  Github  | LinkedIn  |  Dallas, TX 
+________________________________________
+PROFESSIONAL SUMMARY
+Transitioning project manager and former military leader seeking to apply broad management experience in a software engineering role. Recently graduated from Coding Temple, an intensive coding bootcamp, with newly honed skills in Python, JavaScript, SQL, and related technologies. Aiming to combine this technical prowess with broad management experience for an efficient and effective role in software engineering.
+TECHNICAL SKILL 
+Languages: CSS, HTML, JavaScript, Python, SQL
+Frameworks: Bootstrap, Flask, Jinja 2, React
+Databases: Microsoft SQL, PostgreSQL, SQLite,
+Libraries/Tools: DBeaver, DB Browser, Git, GitHub, jQuery, Jupyter Notebook, Postman, REST APIs 
+Certifications: Software Engineer - Coding Temple
+ 
+________________________________________
+EXPERIENCE
+Coding Temple / Software Engineer	02/2023 - Current
+Pantry Plus: Capstone Project [Project GitHub] Developed a web application (Pantry Plus) that enables recipe management by employing Flask for the backend and HTML, CSS, and JavaScript for the frontend.			
+•	Implemented user authentication system, allowing only signed-in users to access features beyond the homepage such as current menu search, find by ingredients, database search, and Recipe Roulette.
+•	Leveraged Spoonacular API to dynamically fetch and update data, improving application data accuracy and offering users real-time recipe updates.
+•	Automated the addition of new recipes to the SQLite database upon discovery, demonstrating the capacity to create scalable applications and expand user options through automation.
+•	Established a robust testing environment using Postman a virtual environment, facilitating extensive application testing and efficient bug identification and applied pagination to handle large search results efficiently.
+Additional projects during the course:
+•	Built a weather application enabling users to check weather conditions of any city by inputting the city's name.
+•	Created a user-centric shopping cart in Python offering a menu of items and providing options to add or remove items, view the current shopping cart, and see the total cost at checkout.
+•	Employed Python OOP principles to design a terminal-based blackjack card game featuring printed card designs within the terminal.
+US Bank / Mortgage Banker/ Scrum Master	12/2021 - 06/2022
+•	Facilitated Scrum ceremonies (daily standup, sprint planning, sprint demo, retrospective) to ensure clear communication. 
+•	Collaborated closely with the product owner to prioritize the backlog and ensure alignment with business objectives.
+•	Coached team members on Agile and Scrum principles with the aim of improving processes and maximizing productivity.
+•	Resolved impediments to team progress, ensuring efficient project advancement.
+•	Conducted weekly meetings with the eight branches within the territory, overseeing the performance matrix.
+•	Implemented a peer-to-peer rewards program encouraging teams to highlight outstanding performance.
+•	Nurtured solid relationships with key stakeholders, project team members, and clients while maintaining a pristine book of business and increasing sales by over 15% per quarter.
+________________________________________
+MILITARY EXPERIENCE
+US Army / Staff Sergeant / Instructor / Squad Leader	01/2001 -01/2013
+•	Managed the duties and activities of 13-15 troops, developing plans to accomplish monthly mission assignments.
+•	Instructed Warrior Leadership Course for future leaders of the US Army and offered courses for individual and team professional development.
+•	Supervised military personnel in all construction operations and equipment usage/maintenance for assigned work projects.
+•	Devised network flow diagrams and planned, coordinated, and facilitated work activities of supporting units.
+•	Created and instituted a quality control plan that enhanced operations in terms of efficiency, accuracy, or other measurable parameters.
+________________________________________
+EDUCATION
+University of Phoenix / Master of Business Administration (MBA)							05/2014	
+University of Louisiana at Monroe / BBA, Risk Management and Insurance major					05/2019
+Other Active Certifications: Project Management Professional (PMP), Certified Scrum Master (CSM), Lean Six Sigma Black Belt (ICBB)
+		
+
